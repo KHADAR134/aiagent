@@ -28,7 +28,6 @@ Implementing the AI agent
 Measure the performance parameters
 
 ## PROGRAM
-```
 import random
 
 class Thing:
@@ -230,11 +229,10 @@ if _name_ == "_main_":
     environment.run(steps=10)
     print(environment.status)
     print(agent.performance)
-    ```
+   
 ## OUTPUT
 
 ![WhatsApp Image 2022-04-07 at 2 56 21 PM](https://user-images.githubusercontent.com/75235233/162229329-629c355a-4f26-4523-ada0-8f32ede50f57.jpeg)
-
 
 ## RESULT
 Thus, an AI agent is developed.
