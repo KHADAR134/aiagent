@@ -234,8 +234,8 @@ if _name_ == "_main_":
     
 
 ## OUTPUT
+![output](https://user-images.githubusercontent.com/75235233/162226264-b8b3a0a9-fe5f-40a5-bb43-4b71910da1c6.jpeg)
 
-![WhatsApp Image 2022-04-07 at 2 56 21 PM](https://user-images.githubusercontent.com/75235233/162210058-97e5590f-462a-41cc-8089-8c2ed519b506.jpeg)
 
 
 ## RESULT
