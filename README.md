@@ -28,6 +28,7 @@ Implementing the AI agent
 Measure the performance parameters
 
 ## PROGRAM
+```
 import random
 
 class Thing:
@@ -229,6 +230,7 @@ if _name_ == "_main_":
     environment.run(steps=10)
     print(environment.status)
     print(agent.performance)
+    ```
     
 
 ## OUTPUT
