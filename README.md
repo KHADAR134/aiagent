@@ -231,12 +231,9 @@ if _name_ == "_main_":
     print(environment.status)
     print(agent.performance)
     ```
-    
-
 ## OUTPUT
 
-
-![WhatsApp Image 2022-04-07 at 2 56 21 PM](https://user-images.githubusercontent.com/75235233/162228021-6da77383-aa7d-44eb-ba71-2e2a9b51c603.jpeg)
+![WhatsApp Image 2022-04-07 at 2 56 21 PM](https://user-images.githubusercontent.com/75235233/162229329-629c355a-4f26-4523-ada0-8f32ede50f57.jpeg)
 
 
 ## RESULT
