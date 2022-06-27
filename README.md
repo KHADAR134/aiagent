@@ -1,6 +1,6 @@
 ### EX.NO: 01
 ### DATE: 04-04-2022
-# Developing AI Agent with PEAS Description
+## <p align="center">Developing AI Agent with PEAS Description</p>
 
 ## AIM
 
@@ -30,8 +30,12 @@ Implementing the AI agent
 Measure the performance parameters
 
 ## PROGRAM
+Include your agent code here
+```python
+#DEVELOPED BY: SHAIK KHADAR BASHA
+#REGISTER NO: 212220230045
 ```
-python
+```python
 import random
 
 class Thing:
